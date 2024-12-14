@@ -47,10 +47,9 @@ If you're using **Windows**, `tkinter` should be included with your Python insta
 
 ## Compatibility
 
-This utility has been tested under the following conditions:
-- **Operating Systems**: Ubuntu 24.04.1, Windows 10
-- **Python Versions**: 3.11.4, 3.12.2, 3.12.3
-- **SIESTA Versions**: 4.1-268, 5.2.1
+- **Platforms**: Tested on Ubuntu 24.04.1 and Windows 10.
+- **Python Versions**: 3.11+
+- **SIESTA Versions**: 4.1-268 and 5.2.1
 
 
 ## Usage Instructions
